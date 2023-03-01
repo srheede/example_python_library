@@ -1,0 +1,13 @@
+Private Use License - COPYRIGHT 2023 Stefan Rheeders
+
+This library is intended solely for private use and is not to be distributed or used by any third party.
+By accessing or using this library, you agree to use it solely for private use and not to share,
+distribute, or sublicense it to any third party without express written permission from the owner of this library.
+
+Any unauthorized use, copying, modification, or distribution of this library or any portion thereof is strictly
+prohibited and may be subject to legal action.
+
+THE LIBRARY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE LIBRARY OR THE USE OR OTHER DEALINGS IN THE LIBRARY.
